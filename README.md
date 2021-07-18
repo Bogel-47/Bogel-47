@@ -7,7 +7,7 @@
   <img src="https://mmc.tirto.id/image/otf/700x0/2016/08/04/TIRTO-soeharto_ratio-16x9.JPG" width="100">
 </p>
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY)
 
 Programmer? No, I'm Just Copy Paste Developer
 
