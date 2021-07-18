@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://mmc.tirto.id/image/otf/700x0/2016/08/04/TIRTO-soeharto_ratio-16x9.JPG">
+  <img src="https://mmc.tirto.id/image/otf/700x0/2016/08/04/TIRTO-soeharto_ratio-16x9.JPG" width="100">
 </p>
 Programmer? No, I'm Just Copy Paste Developer
 
