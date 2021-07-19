@@ -4,12 +4,13 @@
 </p>
 
 <p align="center">
-  <img src="https://mmc.tirto.id/image/otf/700x0/2016/08/04/TIRTO-soeharto_ratio-16x9.JPG" width="100">
+  <img src="https://media.csesoc.org.au/content/images/2019/10/learn11.gif" width="100">
 </p>
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY)
 
-Programmer? No, I'm Just Copy Paste Developer
+Programmer? No, I'm Just Copy Paste Developer<br>
+BackEnd Developer
 
 Need static web or the other program? contact to : hargimuhammad@gmail.com
 <br>repositories in here are free, use wisely
